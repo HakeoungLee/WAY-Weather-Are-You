@@ -11,4 +11,11 @@
 ![날씨 요소 월별 시각화](https://user-images.githubusercontent.com/81342538/123548049-2fb30c80-d79e-11eb-9be3-8806880bed9c.png)   
 
 # 월별 대분류별 온라인 구매량 & sns 언급량
-![월별 대분류별 온라인 구매량   sns 언급량](https://user-images.githubusercontent.com/81342538/123548602-6853e580-d7a0-11eb-8b17-08ace125699e.png)
+![월별 대분류별 온라인 구매량   sns 언급량](https://user-images.githubusercontent.com/81342538/123548602-6853e580-d7a0-11eb-8b17-08ace125699e.png)   
+
+
+# 일부 중분류 추출
+![편집된 식품 비교](https://user-images.githubusercontent.com/81342538/123550957-a48c4380-d7aa-11eb-84df-c5f9956275c6.png)
+![편집된 뷰티비교2](https://user-images.githubusercontent.com/81342538/123550960-a5bd7080-d7aa-11eb-80d9-65d9415044e1.png)
+![편집된 가전 비교2](https://user-images.githubusercontent.com/81342538/123550961-a8b86100-d7aa-11eb-9f46-f0dd4395dba9.png)
+
