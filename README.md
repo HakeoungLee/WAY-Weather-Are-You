@@ -1,6 +1,8 @@
 멋쟁이사자처럼 AI 프로젝트 (Likelion AI Project): WAY-Weather-Are-You   
+
 기상청 날씨 빅데이터 공모전
 : 이상기후에 따른 소비패턴 분석 및 서비스 제안   
+
 ![0001](https://user-images.githubusercontent.com/81342538/123995643-86704e80-da09-11eb-875d-2ab479b1ef8e.jpg)
 ![0002](https://user-images.githubusercontent.com/81342538/123995657-88d2a880-da09-11eb-9744-6f575d4656d8.jpg)
 ![0003](https://user-images.githubusercontent.com/81342538/123995661-8a9c6c00-da09-11eb-8b61-b6fc4ef9bd7f.jpg)
